@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/menu_meeting"
+        android:icon="@drawable/meeting"
+        android:title="会议管理"/>
+    <item
+        android:id="@+id/menu_hangye"
+        android:icon="@drawable/newspaper"
+        android:title="行业动态"/>
+</group>
+
+</menu>
